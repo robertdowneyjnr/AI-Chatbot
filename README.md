@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/document-summarizer-qa.git
 cd document-summarizer-qa
 
 Install the required packages:
-pip install flask PyPDF2 python-docx transformers
+pip install flask PyPDF2 python-docx transformers sentencepiece
 
 Run the application:
 python app.py
